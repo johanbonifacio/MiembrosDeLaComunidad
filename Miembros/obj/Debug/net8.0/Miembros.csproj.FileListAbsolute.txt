@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\Miembros\bin\Debug\net8.0\Miembros.exe
+C:\Users\johan\source\repos\Miembros\bin\Debug\net8.0\Miembros.deps.json
+C:\Users\johan\source\repos\Miembros\bin\Debug\net8.0\Miembros.runtimeconfig.json
+C:\Users\johan\source\repos\Miembros\bin\Debug\net8.0\Miembros.dll
+C:\Users\johan\source\repos\Miembros\bin\Debug\net8.0\Miembros.pdb
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.AssemblyInfo.cs
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.dll
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\refint\Miembros.dll
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.pdb
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\Miembros.genruntimeconfig.cache
+C:\Users\johan\source\repos\Miembros\obj\Debug\net8.0\ref\Miembros.dll
